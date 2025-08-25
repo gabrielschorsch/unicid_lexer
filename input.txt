@@ -1,0 +1,29 @@
+Gabriel Schorsch Amadeu 123 + -45 * 3.14 / "uma frase entre aspas"
+nomeSimples -0.5+0.75var 007 ++ -- +=
+"contém \\\"escape\\\" ok" palavra_com_underscore 1,000 3.14.15
+rag312 - .5 +.75 5. 1.2.3
+++5 --3 +-4 + -5
+0x1A 1e3 1_000 3,14
+"aspas não fechadas
+"aspas com\nquebra" outraPalavra
+multi-palavra literal, com: vírgula. ponto! e números 42
+Gabriel S. Amadeu Jr. Gabriel Amadeu
+NOME_COMPLETO_DO_ALUNO OutroNome -12 +34.0 /var_name
+a+b -7*-3.5/var_name2
+#comentário_inicial estilo livre
+// comentário estilo C++ e depois 99
+"aspas 'mistas' e símbolos !@#"
+"-inicia-com-hífen" - 0.25
++ .75 0 .0
+variável_com_acentuação variável com espaço
+João da Silva; outro; 1000
+nome-com-hífen outro_nome 3.1415926535
+"contém \\barra e \\\\\" mais" finalToken 123abc
+invalido"aspas no meio"teste
+Gabriel Schorsch AmadeuExtra Gabriel Schorsch Amadeu
+mix123text 123text456 456 78.90 -78.90 78.90 + -78.90
+"escapes \\n \\t \\\"" fim
+.5 . .25 5.
+unter_score _inicia_com_underscore
+1var_inicia_com_digito var1_inicia_com_letra
+++ -- *= /= -=
