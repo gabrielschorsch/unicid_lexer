@@ -32,7 +32,7 @@ Supondo que você já tenha o Docker e a extensão "Dev Containers" instalados:
 3.1 Abra o projeto no Visual Studio Code.
 3.2 Abra as opções (Ctrl + Shift + P) e selecione "Remote-Containers: Reopen in Container".
 3.3 Aguarde até que o ambiente de desenvolvimento seja carregado.
-3.4 Abra o terminal integrado (Ctrl + `) e execute o comando `make run`.
+3.4 Abra o terminal integrado  `(Ctrl + `)  e execute o comando `make run`.
 
 Os arquivos serao gerados na pasta raiz e o resultado será mostrado no terminal integrado.
 
