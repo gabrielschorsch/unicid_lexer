@@ -11,7 +11,7 @@
 Digitos             = [0-9]+
 Sinais              = [+\-]
 Inteiros            = {Sinais}?{Digitos}
-Decimais            = {Sinais}?{Digitos}"."{Digitos}
+Decimais            = {Sinais}?{Digitos}*"."{Digitos}
 Numeros             = {Decimais}|{Inteiros}
 Operadores          = [+\-*/]
 EspacoVazio         = [ \t\r\n]+
