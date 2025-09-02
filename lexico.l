@@ -2,6 +2,7 @@
 
 %class Lexico
 %standalone
+%unicode
 %public
 %line
 %column
